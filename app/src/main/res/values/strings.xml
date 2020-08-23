@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">getting image using random API</string>
+    <string name="getting_image_from_random_api">Getting Image From Random API</string>
+    <string name="todo">TODO</string>
+    <string name="name_is"> Name :</string>
+    <string name="email">Email :</string>
+    <string name="phone">Phone :</string>
+</resources>
